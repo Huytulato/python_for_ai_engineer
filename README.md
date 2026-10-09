@@ -36,8 +36,8 @@ rồi mở file notebook trong tab trình duyệt hiện ra.
 - [x] Bài 4: List & Tuple
 - [x] Bài 5: Dictionary & Set
 - [x] Bài 6: Hàm (function), phạm vi biến, *args/**kwargs
-- [ ] Bài 7: Comprehension, generator, lambda ← **bắt đầu ở đây**
-- [ ] Bài 8: Lập trình hướng đối tượng (OOP)
+- [x] Bài 7: Comprehension, generator, lambda
+- [ ] Bài 8: Lập trình hướng đối tượng (OOP) ← **bắt đầu ở đây**
 - [ ] Bài 9: Xử lý lỗi (exception) & làm việc với file
 - [ ] Bài 10: Module, package, pip, virtual environment
 
@@ -89,4 +89,4 @@ rồi mở file notebook trong tab trình duyệt hiện ra.
 
 ## Tiến độ hiện tại
 
-**Đang học:** Module 1 — Bài 7: Comprehension, generator, lambda (`module_01_python_co_ban/07_comprehension_generator_lambda.ipynb`)
+**Đang học:** Module 1 — Bài 8: Lập trình hướng đối tượng (`module_01_python_co_ban/08_oop.ipynb`)
